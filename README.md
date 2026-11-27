@@ -12,7 +12,7 @@
 
 ### About
 
-I'm Frances, a Master's student in Logistics Engineering and Management and a former software engineer of five years. I build optimization models and software tools across operations research and computer science.
+I'm Frances, a Master's student in Logistics Engineering and Management with five years of prior experience as a software engineer. Now, my research focuses on operations research and logistics management, where I develop mathematical models and algorithms to solve transportation network and logistics planning problems.
 
 
 ### Currently exploring
